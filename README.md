@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Brandon Ng
+# Brandon Ng
 
 I’m a **Computer Science** student and aspiring **Full-Stack Engineer** specializing in **backend** development. Currently in **Year 3** at the **Singapore University of Technology and Design (SUTD)**.
 
