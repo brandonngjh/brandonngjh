@@ -11,5 +11,5 @@ I’m a **Computer Science** student and aspiring **Full-Stack Engineer** specia
 
 ## 🔍 Explore More
 
-- **Portfolio:** [brandonngjh.vercel.app/](https://brandonngjh.vercel.app/)
+- **Portfolio:** [brandonngjh.vercel.app](https://brandonngjh.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/brandonngjh](https://www.linkedin.com/in/brandonngjh/)
