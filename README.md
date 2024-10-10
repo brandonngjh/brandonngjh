@@ -9,7 +9,7 @@ I’m a **Computer Science** student and aspiring **Full-Stack Engineer** specia
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Technologies:** Docker, AWS, Git, GitHub
 
-## 📫 Get in Touch
+## 🔍 Explore More
 
 - **Portfolio:** [brandonngjh.vercel.app/](https://brandonngjh.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/brandonngjh](https://www.linkedin.com/in/brandonngjh/)
