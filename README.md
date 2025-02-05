@@ -4,10 +4,10 @@ I’m a **Computer Science** student and aspiring **Full-Stack Engineer** specia
 
 ## 🔧 Skills
 
-- **Languages:** Python, Java, JavaScript, TypeScript, C, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Next.js, Tailwind CSS
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Technologies:** Docker, AWS, Git, GitHub
+- **Languages:** Python, Javascript, Typescript, Java, Go, C, C#, SQL, HTML, CSS
+- **Frameworks & Libraries:** Gin, Flask, React, Node.js, Next.js, Express.js, .NET
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis, RabbitMQ
+- **Tools & Technologies:** Git, GitHub Actions, Docker, Linux
 
 ## 🔍 Explore More
 
